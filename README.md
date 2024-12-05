@@ -10,8 +10,8 @@ copy paste without understanding what it is you are doing and take the time you 
 CRUD (CREATE, READ, UPDATE AND DELETE).
 
 ## What is your assignment:
-You must create a web app that is able to show all the your favorite movie titles, which can then
-be modified, deleted or new titles can be added.
+You must create a web app that is able to show all the your favorite study rooms on campus, which can then
+be modified, deleted or new rooms can be added.
 
 ## What are the requirements:
 - Front-end: You must use React and Next.js.
