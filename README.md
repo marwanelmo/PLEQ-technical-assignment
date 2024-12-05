@@ -1,3 +1,5 @@
+![](./pleq_logo.png)
+
 # PLEQ - Technical Assignment
 
 ### Dear candidate,
